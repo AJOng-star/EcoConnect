@@ -1,0 +1,6 @@
+{
+  "name": "EcoConnect",
+  "description": "A vibrant environmental social media app where users share eco-friendly achievements, identify species with Gemini AI, explore green locations on a map, and connect through gamified sustainability challenges.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
